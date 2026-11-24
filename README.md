@@ -301,7 +301,7 @@ The application will open automatically at `http://localhost:8501`.
 ## 11. Live Deployment
 
 The application is deployed on **Streamlit Community Cloud**:
-- **Live URL:** [https://gridlens-de-2dwwpywfabjidmnel763rs.streamlit.app/](https://gridlens-de-2dwwpywfabjidmnel763rs.streamlit.app/)
+- **Live URL:** [https://gridlens-de-cpx2jpx3ba6cuo3safmdyz.streamlit.app/](https://gridlens-de-cpx2jpx3ba6cuo3safmdyz.streamlit.app/)
 
 To deploy your own instance:
 1. Push this repository to your GitHub account.
